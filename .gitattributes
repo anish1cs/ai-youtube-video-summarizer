@@ -1,0 +1,4 @@
+C:/ai_youtube_summarizer filter=lfs diff=lfs merge=lfs -text
+largefile.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+foldername/** filter=lfs diff=lfs merge=lfs -text

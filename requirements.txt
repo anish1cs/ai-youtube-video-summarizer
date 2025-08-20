@@ -1,0 +1,8 @@
+streamlit
+youtube-transcript-api
+transformers
+torch
+keybert
+sentence-transformers
+pyperclip
+nltk

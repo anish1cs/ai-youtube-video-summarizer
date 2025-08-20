@@ -1,0 +1,41 @@
+# --- Python build / cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+venv/
+.venv/
+
+# --- Environment variables ---
+.env
+*.env
+.env.*
+
+# --- Dependency / packaging ---
+*.egg-info/
+*.egg
+dist/
+build/
+
+# --- Jupyter / IPython ---
+.ipynb_checkpoints/
+.profile
+
+# --- IDE / Editor settings ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+
+# --- Misc ---
+*.bak
+*.tmp

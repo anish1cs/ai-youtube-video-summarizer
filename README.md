@@ -18,10 +18,10 @@ A simple project to **summarize YouTube videos** using:
 
 ## 📂 Project Structure
 Yt_vdo_summrizer/ <br>
-│── backend/
-│ └── app.py # FastAPI backend
-│── frontend/
-│ └── streamlit_app.py # Streamlit frontend
-│── requirements.txt # Dependencies
-│── run_project.bat # One-click startup script (Windows)
-│── README.md # Documentation
+│── backend/ <br>
+│ └── app.py # FastAPI backend <br>
+│── frontend/ <br>
+│ └── streamlit_app.py # Streamlit frontend <br>
+│── requirements.txt # Dependencies <br>
+│── run_project.bat # One-click startup script (Windows) <br>
+│── README.md # Documentation <br>

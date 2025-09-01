@@ -17,7 +17,7 @@ A simple project to **summarize YouTube videos** using:
 ---
 
 ## 📂 Project Structure
-Yt_vdo_summrizer/
+Yt_vdo_summrizer/ <br>
 │── backend/
 │ └── app.py # FastAPI backend
 │── frontend/
